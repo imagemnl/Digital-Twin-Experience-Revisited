@@ -13,4 +13,4 @@ Benieuwd hoe digital twins jouw werk eenvoudiger en effectiever kunnen maken? On
 Geen programmeerkennis nodig – wij hebben de complexiteit al voor je weggenomen. Bovendien is er voldoende tijd om kennis en ervaring met andere deelnemers en specialisten uit te wisselen.
 
 ### Opdrachten
-[Link](https://github.com/imagemnl/Digital-Twin-Experience-Revisited/Opdrachten.pdf)
+[Link](./Opdrachten.pdf)
