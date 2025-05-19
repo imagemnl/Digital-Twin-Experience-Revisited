@@ -14,3 +14,4 @@ Geen programmeerkennis nodig – wij hebben de complexiteit al voor je weggenome
 
 ### Opdrachten
 [Link](./Opdrachten.pdf)
+[IFC Model](./Model.ifc)
