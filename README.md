@@ -11,3 +11,6 @@ Benieuwd hoe digital twins jouw werk eenvoudiger en effectiever kunnen maken? On
 - Ervaring opdoen in het integreren van data en bronnen.
 
 Geen programmeerkennis nodig – wij hebben de complexiteit al voor je weggenomen. Bovendien is er voldoende tijd om kennis en ervaring met andere deelnemers en specialisten uit te wisselen.
+
+### Opdrachten
+[Link](https://github.com/imagemnl/Digital-Twin-Experience-Revisited/Opdrachten.pdf)
